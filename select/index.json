@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "踊 / Ado（Cover） ver.Sou",
+  "base_artist": "Sou",
+  "createdAt": "2025-12-01T08:27:16.127558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "踊 - Bon-Odo Remix",
+      "artist": "Ado feat. Giga",
+      "has_synced": true,
+      "path": "select/04_踊_-_Bon-Odo_Remix_Ado_feat._Giga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "踊 - Bon-Odo Remix",
+      "artist": "Ado/Giga",
+      "has_synced": true,
+      "path": "select/05_踊_-_Bon-Odo_Remix_Ado_Giga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "踊 (feat. 小豆沢こはね&白石杏)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_踊_(feat._小豆沢こはね&白石杏)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "踊 - Bon-Odo Remix",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_踊_-_Bon-Odo_Remix_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "踊 - Odo",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_踊_-_Odo_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "【Ado】踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_【Ado】踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "踊 - Odo",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/11_踊_-_Odo_Ado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏",
+      "has_synced": true,
+      "path": "select/12_踊_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/13_踊_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/14_踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "【Ado】踊",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/15_【Ado】踊_Ado.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "踊 - Odo (feat. 小豆沢こはね&白石杏)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/16_踊_-_Odo_(feat._小豆沢こはね&白石杏)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "踊",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/17_踊_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "【Ado】踊 (Odo)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/18_【Ado】踊_(Odo)_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊りませんか",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_踊りませんか_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "踊る夜",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_02_踊る夜_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "踊ろよ、フィッシュ",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_03_踊ろよ、フィッシュ_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "踊るガリ勉中学生",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_04_踊るガリ勉中学生_MONOBRIGHT.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ダンシング☆サムライ",
+      "artist": "MONOBRIGHT",
+      "has_synced": false,
+      "path": "select/pl_05_ダンシング☆サムライ_MONOBRIGHT.txt"
+    }
+  ]
+}
